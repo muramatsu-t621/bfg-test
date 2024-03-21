@@ -1,4 +1,4 @@
 public class TestClass
 {
-    public const string Password ="foober";
+    public const string Password ="***REMOVED***";
 }
